@@ -7,7 +7,7 @@ Cookie Clicker is one of the most addictive idle games ever created, and if you'
 ---
 ## 🎮 What is [Cookie Clicker](https://cookieclicker.ee/)?
 
-If you haven’t played Cookie Clicker before, here’s a quick breakdown:
+### If you haven’t played Cookie Clicker before, here’s a quick breakdown:
 
 - Objective: Click on a giant cookie to generate cookies.
 
