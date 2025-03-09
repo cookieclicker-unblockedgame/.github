@@ -76,7 +76,7 @@ Want to customize Cookie Clicker? Follow these steps to clone and edit the GitHu
 2. To host your version online, upload the files to GitHub Pages.
 
 ---
-## 🔥 Best Mods and Hacks for Cookie Clicker
+## 🔥 Best Mods and Hacks for [Cookie Clicker](https://cookieclicker.app)
 
 If you want to enhance your Cookie Clicker experience, try these popular modifications:
 
